@@ -1,0 +1,424 @@
+.heder0{
+    background-color: rgb(3, 237, 237);
+    height: 100px;
+    width: 1200px;
+    margin-top: 100px;
+    display: flex;
+}
+.c6{
+    background-color: rgb(85, 97, 85);
+    height: 100px;
+    width: 300px;
+    
+}  
+.c7{
+        background-color: rgb(41, 98, 41);
+        height: 100px;
+        width: 300px; 
+        position: relative;
+        bottom: 50px;
+}
+.c10{
+    background-color: rgb(129, 236, 129);
+        height: 50px;
+        width: 300px;
+        display: flex;
+}
+.c12{
+    background-color: rgb(222, 90, 46);
+    height: 50px;
+    width: 150px;
+}
+
+.c13{
+    background-color: rgb(120, 102, 96);
+    height: 50px;
+    width: 150px;
+    
+}
+.c90{
+    background-color: rgb(235, 38, 163);
+    height: 25px;
+    width: 150px;
+    display: flex;
+}
+
+.c14{
+    background-color: rgb(61, 25, 203);
+    height: 25px;
+    width: 50px;
+}
+.c15{
+    background-color: rgb(183, 34, 44);
+    height: 25px;
+    width: 50px;
+}
+.c16{
+    background-color: rgb(77, 167, 240);
+    height: 25px;
+    width: 50px;
+}
+
+.c91{
+    background-color: rgb(158, 159, 218);
+    height: 25px;
+    width: 150px;
+   
+}
+
+.c8{
+    background-color: rgb(158, 236, 162);
+    height: 100px;
+    width: 300px;
+    
+
+    }
+.c9{
+    background-color: rgb(29, 67, 30);
+    height: 100px;
+    width: 300px;
+
+        
+    }
+
+.c17{
+        background-color: rgb(11, 211, 17);
+        height: 33.33px;
+        width: 300px;
+        display: flex;
+            
+        }
+.c20{
+    background-color: rgb(244, 107, 28);
+    height: 33.33px;
+    width: 60px;
+}
+.c21{
+    background-color: rgb(186, 192, 14);
+    height: 33.33px;
+    width: 60px;
+}
+.c22{
+    background-color: rgb(43, 219, 16);
+    height: 33.33px;
+    width: 60px;
+}
+.c23{
+    background-color: rgb(233, 15, 171);
+    height: 33.33px;
+    width: 60px;
+}
+.c24{
+    background-color: rgb(232, 15, 15);
+    height: 33.33px;
+    width: 60px;
+}
+.c18{
+    background-color: rgb(39, 196, 228);
+    height: 33.34px;
+    width: 300px;
+                
+    }
+.c19{
+    background-color: rgb(58, 18, 219);
+    height: 33.33px;
+    width: 300px;
+    display: flex;
+}
+.c25{
+    background-color: rgb(244, 107, 28);
+    height: 33.33px;
+    width: 150px;
+}
+.c26{
+    background-color: rgb(141, 41, 54);
+    height: 33.33px;
+    width: 150px;
+}   
+.c27{
+    background-color: rgb(103, 215, 86);
+    height: 16.665px;
+    width: 150px;
+}
+.c28{
+    background-color: rgb(221, 107, 206);
+    height: 16.665px;
+    width: 150px;
+    display: flex;
+}
+.c29{
+    background-color: rgb(206, 12, 12);
+    height: 16.665px;
+    width: 60px;
+}
+.c30{
+    background-color: rgb(41, 215, 203);
+    height: 16.665px;
+    width: 60px;
+}
+.c31{
+    background-color: rgb(150, 103, 146);
+    height: 16.665px;
+    width: 60px;
+}
+.heder1{
+    background-color: rgb(195, 209, 209);
+    height: 100px;
+    width: 1200px;
+    display: flex;  
+}
+.c32{
+    background-color: rgb(195, 209, 209);
+    height: 100px;
+    width: 600px;
+}
+.c32{
+    background-color: rgb(177, 82, 146);
+    height: 100px;
+    width: 600px;
+}
+.heder3{
+    background-color: rgb(73, 10, 222);
+    height: 100px;
+    width: 1200px;
+    display: flex;
+}
+.c34{
+    background-color: rgb(209, 98, 13);
+    height: 100px;
+    width: 150px;
+}
+.c35{
+    background-color: rgb(68, 43, 108);
+    height: 100px;
+    width: 150px;
+}
+.c36{
+    background-color: rgb(37, 169, 231);
+    height: 100px;
+    width: 150px;
+}
+.c42{
+    background-color: rgb(98, 15, 161);
+    height: 50px;
+    width: 150px;
+    display: flex;
+}
+.c44{
+    background-color: rgb(157, 5, 129);
+    height: 50px;
+    width: 75px;  
+}
+.c45{
+    background-color: rgb(48, 14, 243);
+    height: 50px;
+    width: 75px;  
+}
+.c43{
+    background-color: rgb(233, 68, 23);
+    height: 50px;
+    width: 150px;
+    display: flex;
+}
+.c46{
+    background-color: rgb(215, 17, 17);
+    height: 50px;
+    width: 75px;  
+}
+.c47{
+    background-color: rgb(28, 105, 64);
+    height: 50px;
+    width: 75px;  
+}
+.c37{
+    background-color: rgb(128, 166, 211);
+    height: 100px;
+    width: 150px;
+}
+.c38{
+    background-color: rgb(65, 42, 57);
+    height: 100px;
+    width: 150px;
+}
+.c48{
+    background-color: rgb(215, 8, 142);
+    height: 46px;
+    width: 150px;
+}
+.c49{
+    background-color: rgb(72, 31, 206);
+    height: 27px;
+    width: 150px;
+}
+.c50{
+    background-color: rgb(199, 233, 46);
+    height: 27px;
+    width: 150px;
+}
+.c39{
+    background-color: rgb(124, 33, 216);
+    height: 100px;
+    width: 150px;
+}
+.c40{
+    background-color: rgb(58, 220, 90);
+    height: 100px;
+    width: 150px;
+}
+.c51{
+    background-color: rgb(215, 8, 142);
+    height: 25px;
+    width: 150px;
+}
+.c52{
+    background-color: rgb(72, 31, 206);
+    height: 25px;
+    width: 150px;
+}
+.c53{
+    background-color: rgb(199, 233, 46);
+    height: 50px;
+    width: 150px;
+}
+.c41{
+    background-color: rgb(214, 168, 52);
+    height: 100px;
+    width: 150px;
+}
+.heder4{
+    background-color: rgb(90, 119, 224);
+    height: 100px;
+    width: 1200px;
+    
+}
+.heder5{
+    background-color: rgb(6, 224, 17);
+    height: 100px;
+    width: 1200px;
+    display: flex;
+}
+.c54{
+    background-color: rgb(87, 57, 62);
+    height: 100px;
+    width: 300px;
+}
+.c58{
+    background-color: rgb(113, 5, 120);
+    height: 50px;
+    width: 300px;
+}
+.c59{
+    background-color: rgb(21, 193, 87);
+    height: 50px;
+    width: 300px;
+    display: flex;
+}
+.c60{
+    background-color: rgb(21, 193, 87);
+    height: 50px;
+    width: 150px;
+}
+.c62{
+    background-color: rgb(180, 246, 24);
+    height: 25px;
+    width: 150px;
+}
+.c63{
+    background-color: rgb(159, 5, 130);
+    height: 25px;
+    width: 150px;
+}
+.c61{
+    background-color: rgb(89, 3, 121);
+    height: 50px;
+    width: 150px;
+}
+.c55{
+    background-color: rgb(11, 202, 227);
+    height: 100px;
+    width: 300px;
+}
+.c56{
+    background-color: rgb(14, 210, 168);
+    height: 100px;
+    width: 300px;
+}
+.c64{
+    background-color: rgb(223, 60, 125);
+    height: 50px;
+    width: 300px;
+}
+.c65{
+    background-color: rgb(13, 187, 193);
+    height: 25px;
+    width: 300px;
+    display: flex;
+}
+.c70{
+    background-color: rgb(250, 67, 226);
+    height: 25px;
+    width: 150px;
+}
+.c71{
+    background-color: rgb(139, 60, 72);
+    height: 25px;
+    width: 150px;
+}
+.c66{
+    background-color: rgb(102, 168, 10);
+    height: 25px;
+    width: 300px;
+    display: flex;
+}
+.c72{
+    background-color: rgb(66, 84, 139);
+    height: 25px;
+    width: 150px;
+}
+.c73{
+    background-color: rgb(158, 208, 21);
+    height: 25px;
+    width: 150px;
+}
+.c57{
+    background-color: rgb(43, 13, 151);
+    height: 100px;
+    width: 300px;
+}
+.c67{
+    background-color: rgb(69, 79, 25);
+    height: 25px;
+    width: 300px;
+    display: flex;
+}
+.c74{
+    background-color: rgb(51, 211, 211);
+    height: 25px;
+    width: 150px;
+}
+.c75{
+    background-color: rgb(116, 78, 140);
+    height: 25px;
+    width: 150px;
+}
+.c68{
+    background-color: rgb(69, 180, 59);
+    height: 25px;
+    width: 300px;
+    display: flex;
+}
+.c76{
+    background-color: rgb(143, 211, 211);
+    height: 25px;
+    width: 150px;
+}
+.c77{
+    background-color: rgb(148, 139, 154);
+    height: 25px;
+    width: 150px;
+}
+.c69{
+    background-color: rgb(239, 16, 60);
+    height: 50px;
+    width: 300px;
+}
